@@ -15,6 +15,8 @@ The flatness of droplet on the substrate.
 
 Idea:
 
+Orient image so both left and right side are in line.
+
 Get outline of droplet on solder 
 
 Find where the edge of the solder drop on the right hand side 
